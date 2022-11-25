@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "id": 10,
+      "name": "Hello",
+      "address": "Kurnool",
+      "Contact": "7894561230",
+      "salary": 25806,
+      "allowance": 3690,
+      "epf": 1200,
+      "tds": 360
+    },
+    {
+      "name": "Hari",
+      "address": "Guragon",
+      "Contact": "789456",
+      "salary": "12354",
+      "allowance": "2000",
+      "tds": "120",
+      "epf": "3241",
+      "id": 12
+    },
+    {
+      "name": "Poojitha",
+      "address": "Guntur",
+      "Contact": "568974",
+      "salary": "2589",
+      "allowance": "203",
+      "tds": "150",
+      "epf": "120",
+      "id": 13
+    }
+  ]
+}
